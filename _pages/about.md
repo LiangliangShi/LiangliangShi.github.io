@@ -10,9 +10,11 @@ My research interests include:
 4. AI for Science and Engineering (Mathematics, EDA, and others)  
 5. Quantum Artificial Intelligence  
 
-<span style="color:red; font-size:24px; font-weight:bold;">
+---
+
+**
 I am actively recruiting self-motivated Master’s and Ph.D. students to join us in exploring the exciting topics mentioned above. Your resume is highly welcome! 招募有自驱力的硕士和博士生，研究方向以上述方向为主，欢迎简历投递！
-</span>
+**
 
 ---
 
