@@ -2,7 +2,7 @@ I received my Ph.D. from ReThinkLab at the Department of Computer Science and En
 I have published over 10 papers in top-tier international conferences such as NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, and ECCV. I also serve as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, and AAAI.
 My research interests include:
 
-***1. Optimal Transport***
+***1. Optimal Transport***  
 ***2. Generative Models***  
 ***3. Combinatorial Optimization***  
 ***4. AI for Science and Engineering (e.g. Mathematics, EDA, and others)***  
